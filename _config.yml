@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://aoao921.github.io/
 date_format: "ordinal"
 title: aoao
-# subtitle: "公众号：闷骚的程序员"
+subtitle: "aoao的个人博客"
 description: "aoao的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+keywords: aoao, 彩笔的安全狗
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -58,12 +58,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: aoao
 organization: 
 organization_url: 
-github_username: mzlogin
+github_username: aoao921
 location: Wuhan, China
-email: chumpma@gmail.com
+email: 2197168002@qq.com
 
 # ---------------- #
 #    Navigation    #
