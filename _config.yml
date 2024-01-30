@@ -90,8 +90,6 @@ navs:
   -
     href: /fragments/
     label: 片段
-
-  -
 #     href: /wiki/
 #     label: 维基
 
@@ -99,7 +97,6 @@ navs:
 #     href: /links/
 #     label: 链接
 #     mobile-hidden: true
-
   -
     href: /about/
     label: 关于
