@@ -13,4 +13,4 @@ mindmap2: false
 ---
 
 
-Hello
+白嫖别人的模版做博客网站真香![Alt text](../images\posts\2024-01-30-introduction\1.png)
