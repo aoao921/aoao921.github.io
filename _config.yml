@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://aoao921.github.io/
+url: https://aoao921.github.io
 date_format: "ordinal"
 title: aoao
 subtitle: "aoao的个人博客"
