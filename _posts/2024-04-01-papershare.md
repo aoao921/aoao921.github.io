@@ -7,7 +7,7 @@ keywords: 图神经网络、网络安全
 mermaid: false
 sequence: false
 flow: false
-mathjax: false
+mathjax: true
 mindmap: false
 mindmap2: false
 ---
